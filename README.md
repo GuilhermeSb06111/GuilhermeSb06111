@@ -5,6 +5,7 @@ ________________________________________________________________________________
 Atari is the best:  
 <img align="center" alt="Guilherme-Python" height="250" width="230" src="https://repository-images.githubusercontent.com/182761742/c717d780-6523-11e9-9ea2-4d0daf920951">
 _________________________
+## Aprendendo: 
 <div style="display: inline_block"><br>
     <img align="center" alt="Guilherme-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Guilherme-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
